@@ -243,7 +243,6 @@
   "NewFileModal": {
     "Title": "Create File",
     "CloseButtonARIA": "Close New File Modal",
-    "EnterName": "Please enter a name",
     "InvalidType": "Invalid file type. Valid extensions are .js, .css, .json, .xml, .stl, .txt, .csv, .tsv, .frag, and .vert."
   },
   "NewFileForm": {

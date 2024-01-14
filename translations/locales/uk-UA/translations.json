@@ -236,7 +236,6 @@
   "NewFileModal": {
     "Title": "Додати файл",
     "CloseButtonARIA": "Закрити",
-    "EnterName": "Введіть ім'я файла",
     "InvalidType": "Некоректний тип файлу. Підтримувані формати: .js, .css, .json, .xml, .txt, .csv, .tsv, .frag та .vert."
   },
   "NewFileForm": {

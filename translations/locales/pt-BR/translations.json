@@ -234,7 +234,6 @@
   "NewFileModal": {
     "Title": "Criar Arquivos",
     "CloseButtonARIA": "Fechar Módulo de Criação de Arquivos",
-    "EnterName": "Por favor coloque um nome",
     "InvalidType": "Tipo de arquivo invalido. Extensões válidas são .js, .css, .json, .xml, .txt, .csv, .tsv, .frag, and .vert."
   },
   "NewFileForm": {

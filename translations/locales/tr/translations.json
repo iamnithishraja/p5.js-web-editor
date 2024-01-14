@@ -240,7 +240,6 @@
   "NewFileModal": {
     "Title": "Dosya Oluştur",
     "CloseButtonARIA": "Yeni Dosya Modalını Kapat",
-    "EnterName": "Lütfen bir isim girin",
     "InvalidType": "Geçersiz dosya türü. Geçerli uzantılar .js, .css, .json, .xml, .txt, .csv, .tsv, .frag ve .vert'tir."
   },
   "NewFileForm": {

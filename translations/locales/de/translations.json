@@ -234,7 +234,6 @@
   "NewFileModal": {
     "Title": "Neue Datei",
     "CloseButtonARIA": "Neue Datei Fenster schließen",
-    "EnterName": "Bitte gib einen Namen ein",
     "InvalidType": "Ungültiger Dateityp. Gültige Endungen sind .js, .css, .json, .xml, .txt, .csv, .tsv, .frag, und .vert."
   },
   "NewFileForm": {

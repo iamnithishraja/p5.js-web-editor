@@ -243,7 +243,6 @@
     "NewFileModal": {
       "Title": "فائل بنائیں",
       "CloseButtonARIA": "نیا فائل موڈل بند کریں۔",
-      "EnterName": "براہ کرم ایک نام درج کریں۔",
       "InvalidType": "غلط فائل کی قسم۔ "
     },
     "NewFileForm": {

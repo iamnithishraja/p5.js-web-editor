@@ -237,7 +237,6 @@
   "NewFileModal": {
     "Title": "Skapa fil",
     "CloseButtonARIA": "Stäng ny fil Modal",
-    "EnterName": "Skriv in ett namn",
     "InvalidType": "Felaktig filtyp. Giltiga filändelser är .js, .css, .json, .xml, .txt, .csv, .tsv, .frag, och .vert."
   },
   "NewFileForm": {

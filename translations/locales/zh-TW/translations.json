@@ -237,7 +237,6 @@
   "NewFileModal": {
     "Title": "建立檔案",
     "CloseButtonARIA": "關閉建立檔案交談窗",
-    "EnterName": "請輸入檔名",
     "InvalidType": "檔案類型錯誤, 只能接受 .js, .css, .json, .xml, .txt, .csv, .tsv, .frag, 或是 .vert 副檔名"
   },
   "NewFileForm": {
