@@ -250,7 +250,6 @@
   "NewFolderModal": {
     "Title": "Crea cartella",
     "CloseButtonARIA": "Chiudi finestra nuova cartella",
-    "EnterName": "Prego inserire il nome",
     "EmptyName": "Il nome cartella non può contenere solo spazi",
     "InvalidExtension": "Il nome cartella non può contenere un'estensione"
   },

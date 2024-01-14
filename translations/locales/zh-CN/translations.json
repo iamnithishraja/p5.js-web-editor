@@ -247,7 +247,6 @@
   "NewFolderModal": {
     "Title": "新建文件夹",
     "CloseButtonARIA": "取消新建文件夹",
-    "EnterName": "请输入名称",
     "EmptyName": "文件夹名称不能含有空格",
     "InvalidExtension": "文件夹名称不能含有空格"
   },

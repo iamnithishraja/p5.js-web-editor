@@ -232,7 +232,6 @@
   "NewFolderModal": {
     "Title": "폴더 생성",
     "CloseButtonARIA": "Close New Folder Modal",
-    "EnterName": "Please enter a name",
     "EmptyName": "Folder name cannot contain only spaces",
     "InvalidExtension": "Folder name cannot contain an extension"
   },

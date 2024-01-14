@@ -250,7 +250,6 @@
   "NewFolderModal": {
     "Title": "Klasör Oluştur",
     "CloseButtonARIA": "Yeni Klasör Modalını Kapat",
-    "EnterName": "Lütfen bir isim girin",
     "EmptyName": "Klasör adı sadece boşluk içeremez",
     "InvalidExtension": "Klasör adı bir uzantı içeremez"
   },

@@ -247,7 +247,6 @@
   "NewFolderModal": {
     "Title": "Skapa mapp",
     "CloseButtonARIA": "Stäng ny mapp Modal",
-    "EnterName": "Skriv in ett namn",
     "EmptyName": "Mappnamnet kan inte vara tomt",
     "InvalidExtension": "Mappnamnet kan inte innehålla en filändelse"
   },

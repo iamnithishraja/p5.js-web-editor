@@ -246,7 +246,6 @@
   "NewFolderModal": {
     "Title": "Додати папку",
     "CloseButtonARIA": "Закрити",
-    "EnterName": "Введіть ім'я папки",
     "EmptyName": "Ім'я папки не може містити лише пробіли",
     "InvalidExtension": "Ім'я папки не може містити розширення"
   },

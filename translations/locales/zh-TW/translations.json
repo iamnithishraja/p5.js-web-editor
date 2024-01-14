@@ -247,7 +247,6 @@
   "NewFolderModal": {
     "Title": "建立資料夾",
     "CloseButtonARIA": "關閉建立資料夾交談窗",
-    "EnterName": "請輸入資料夾名稱",
     "EmptyName": "資料夾名稱中不能只有空白",
     "InvalidExtension": "資料夾名稱不能包含副檔名"
   },
